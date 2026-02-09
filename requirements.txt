@@ -12,7 +12,7 @@ supabase==2.3.0
 
 # Computer Vision (Dyspraxia)
 opencv-python-headless==4.8.1.78
-mediapipe==0.10.9
+mediapipe==0.10.32
 numpy==1.26.2
 
 # NLP / Text Processing (Dyslexia)
